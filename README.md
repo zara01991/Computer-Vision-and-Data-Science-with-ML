@@ -1,2 +1,2 @@
 Data science projects;
-Computer Vision with ML: 3D shape mesh segmentation with SVM and K-means
+ML in Computer Vision: 3D shape mesh segmentation with SVM and K-means
