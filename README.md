@@ -1,2 +1,1 @@
-# DataScience
-IBM DS Certificate Materials
+Projects for data science and computer vision
